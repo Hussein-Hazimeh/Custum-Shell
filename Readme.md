@@ -353,6 +353,6 @@ This shell project provides a basic understanding of how to build a command-line
 
 There’s a lot of room for further improvements, such as adding features like piping (`|`), tab completion, or even advanced job control. This project was a fun and educational way to explore systems programming and understand how real shells work!
 
-You can find the full source code [here on GitHub](#).
+You can find the full source code [here on GitHub](https://github.com/Hussein-Hazimeh/Custum-Shell).
 
 ---
